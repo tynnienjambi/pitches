@@ -1,13 +1,13 @@
 # ONE-MINUTE APPLICATION
 Python 3.6 Application
 
-## By Caroline Mumo
+## By Tinisha Kamau
 
 ## Description of the application
-This application allows users to post pitches in any of the category and also
+Its an application that allows users to post pitches in any of the category and also
 
 ## Project setup instructions
-You can install this app by cloning the repository from this link https://github.com/carolmbithe/Pitch.git
+You can install this app by cloning the repository from this link https://github.com/tynnienjambi/Pitches.git
 
 ## Known Bugs
 There are no known bugs so far,everything is working.
@@ -21,12 +21,12 @@ This project was generated with: * CSS</br  >
 
 
 ## Support and contact details
- If any issues,questions,ideas and concerns are encountered,feel free to contact mumocaroline19@gmail.com
+ If any issues,questions,ideas and concerns are encountered,feel free to contact njambik350@gmail.com
 
 ## License
 This project is licensed under the MIT License
 
-## Copyright (c) 2018 Caroline Mumo
+## Copyright (c) 2022 Tinisha Kamau
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
